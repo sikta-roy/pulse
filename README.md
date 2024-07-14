@@ -19,7 +19,6 @@
 
   ![GitHub deployments](https://img.shields.io/github/deployments/deepsingh132/aionair/production?label=build)
   [![Node.js CI](https://github.com/deepsingh132/aionair/actions/workflows/node.js.yml/badge.svg)](https://github.com/deepsingh132/aionair/actions/workflows/node.js.yml)
-  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
   
   
@@ -91,8 +90,6 @@ and many more, including code architecture and reusability
 |  <img src="assets/screenshots/profile.png" alt="Profile Page" style="border-radius:12px; max-width:100%;"> |
 | Plans Page |
 |  <img src="assets/screenshots/plans.png" alt="Plans Page" style="border-radius:12px; max-width:100%;"> |
-| Payment / Stripe Checkout Page |
-|  <img src="assets/screenshots/stripe.png" alt="Payment Page" style="border-radius:12px; max-width:100%;"> |
 | Usage Page |
 |  <img src="assets/screenshots/usage.png" alt="Usage Page" style="border-radius:12px; max-width:100%;"> |
 
@@ -154,7 +151,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="contact">📞 Contact</a>
 
-If you have any queries or feedback, please feel free to reach out to me at my [email](mailto:siktaroy27@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deepsingh132/](https://www.linkedin.com/in/sikta-roy-2a0153234/).
+If you have any queries or feedback, please feel free to reach out to me at my [email](mailto:siktaroy27@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sikta-roy-2a0153234/).
 
 <br />
 <br />
