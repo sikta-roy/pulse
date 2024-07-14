@@ -34,8 +34,7 @@
 3. 🔋 [Features](#features)
 4. 📸 [Screenshots](#screenshots)
 5. 🤸 [Getting Started](#getting-started)
-6. 📄 [License](#license)
-7. 📞 [Contact](#contact)
+6. 📞 [Contact](#contact)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -151,27 +150,11 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-**Testing Stripe Payments**
 
-To test the Stripe payments/subscriptions functionality, you can use the following test card details:
-
-- **Card Number**: 4242 4242 4242 4242
-- **Expiry Date**: Any future date
-- **CVC/CVV**: Any 3-digit number
-- **Cardholder Name**: Any name
-- **Address**: Any address (e.g., 123 Main Street)
-- **ZIP Code**: Any 5-digit number
-
-You can also use the [Stripe Test Cards](https://docs.stripe.com/testing#cards) for more test card details.
-
-
-## <a name="license">📚 License</a>
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
 ## <a name="contact">📞 Contact</a>
 
-If you have any queries or feedback, please feel free to reach out to me at my [email](mailto:mandeeparora132@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deepsingh132/).
+If you have any queries or feedback, please feel free to reach out to me at my [email](mailto:siktaroy27@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deepsingh132/](https://www.linkedin.com/in/sikta-roy-2a0153234/).
 
 <br />
 <br />
