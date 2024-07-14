@@ -79,19 +79,15 @@ and many more, including code architecture and reusability
 
 | Homepage |
 | :-----------: |
-|  <img src="assets/screenshots/home.png" alt="Home Page" style="border-radius:12px; max-width:100%;">  |
+|  <img src="public/screenshots/home.png" alt="Home Page" style="border-radius:12px; max-width:100%;">  |
 | Discover Page |
-| <img src="assets/screenshots/discover.png" alt="Discover Page" style="border-radius:12px; max-width:100%;">   |
+| <img src="public/screenshots/discover.png" alt="Discover Page" style="border-radius:12px; max-width:100%;">   |
 | Create Podcast Page |
-| <img src="assets/screenshots/create.png" alt="Create Podcast Page" style="border-radius:12px; max-width:100%;"> |
+| <img src="public/screenshots/create.png" alt="Create Podcast Page" style="border-radius:12px; max-width:100%;"> |
 | Podcast Details Page |
-|  <img src="assets/screenshots/podcast.png" alt="Podcast Details Page" style="border-radius:12px; max-width:100%;"> |
+|  <img src="public/screenshots/podcast.png" alt="Podcast Details Page" style="border-radius:12px; max-width:100%;"> |
 | Profile Page |
-|  <img src="assets/screenshots/profile.png" alt="Profile Page" style="border-radius:12px; max-width:100%;"> |
-| Plans Page |
-|  <img src="assets/screenshots/plans.png" alt="Plans Page" style="border-radius:12px; max-width:100%;"> |
-| Usage Page |
-|  <img src="assets/screenshots/usage.png" alt="Usage Page" style="border-radius:12px; max-width:100%;"> |
+|  <img src="public/screenshots/profile.png" alt="Profile Page" style="border-radius:12px; max-width:100%;"> |
 
 
 ## <a name="getting-started">🤸 Getting Started</a>
@@ -109,8 +105,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/deepsingh132/aionair.git
-cd aionair
+git clone https://github.com/deepsingh132/pulse.git
+cd pulse
 ```
 
 **Installation**
